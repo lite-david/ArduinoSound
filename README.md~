@@ -1,0 +1,5 @@
+This will be useful for anyone who's interested in playing some songs on a remote server with input from a microcontroller.
+
+I ran this setup on my 64-bit machine which supports Ubuntu 14.10. 
+
+I ran a server locally on my machine and added 4 mp3 files. The php script opens up the COMport.Ubuntu treats COMports like anyother file, and so any serial at
